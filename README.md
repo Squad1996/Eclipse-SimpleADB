@@ -4,9 +4,9 @@ Simple ADB is a phone app that controls a Wear OS watch (made and tested on the 
 
 ## Download the latest test build
 
-**[SimpleADB-v2.16-test.apk](https://github.com/Squad1996/eclipse-simpleADB/raw/main/SimpleADB-v2.16-test.apk)** (about 13 MB, version 2.16)
+**[SimpleADB-v2.17-test.apk](https://github.com/Squad1996/eclipse-simpleADB/raw/main/SimpleADB-v2.17-test.apk)** (about 13 MB, version 2.17)
 
-SHA-256: `20bafb778adf1349d8dd131b6ce0b91dad922065023ce6b52dbe6a95340624d8`
+SHA-256: `409121df74350acc0dad350bc9b201f44dd09dfcec384e2cf6dfcf0bd77646e6`
 
 ## Install
 
