@@ -23,3 +23,7 @@ Install the new APK over the old one, then tap **Update the helper** (or **Set u
 Open the Bluetooth helper card, tap **Details**, then **Copy report for testers**, and paste it in your message together with what you did and what went wrong.
 
 This is a test build and can have bugs.
+
+## Privacy
+
+Simple ADB collects no data. Read the [privacy policy](PRIVACY.md).
